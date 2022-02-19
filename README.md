@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This project is created to understand how to authenticate users using firebase auth in an angular app, this is a complete recreation of [**Full Angular 12 Firebase Authentication Tutorial Example**](https://www.positronx.io/full-angular-7-firebase-authentication-system/) by [Digamber Rawat](https://github.com/SinghDigamber/).
 The tutorial all in itself wasn't enough to get the code working for angular 13, so had to check out the [@angular/fire docs for authentication](https://github.com/angular/angularfire/blob/HEAD/docs/auth/getting-started.md)
 
-Thinks I did :- 
+Things I did :- 
 
 1. After creating an Angular App using `ng new <app-name>`, `cd` into the app.
 2. Make sure `firebase` sdk is installed, `npm install firebase`.
